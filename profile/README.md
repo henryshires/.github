@@ -1,4 +1,5 @@
-[![We've been recognized for our people-first culture.](https://github.com/zirous/.github/blob/main/images/banner-1.png)](https://github.com/zirous/.github/blob/main/images/banner-1.png)
+<img width="1360" height="514" alt="unnamed" src="https://github.com/user-attachments/assets/6e1b8b5d-a175-40e5-81da-d652a1e45cf7" />
+
 
 ## About Zirous
 
