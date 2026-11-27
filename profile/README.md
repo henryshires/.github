@@ -13,6 +13,6 @@ Founded in 1986, Zirous is a technology solutions provider dedicated to empoweri
 - *Integration* : Seamlessly connecting platforms and systems to enhance functionality.
 - *Security Operations* : Proactively protecting organizations with cutting-edge identity and cybersecurity solutions.
 
-Through strategic partnerships with industry leaders like Oracle, Adobe, and SailPoint, Zirous combines innovation and expertise to help businesses achieve their goals.
+Through strategic partnerships with industry leaders like Microsoft, AWS, and Snowflake, Zirous combines innovation and expertise to help businesses achieve their goals.
 
 Visit [zirous.com](https://www.zirous.com/) to learn more!
